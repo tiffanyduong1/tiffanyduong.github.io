@@ -52,7 +52,7 @@
     },
     {
       "company": "Hollister Co.",
-      "position": "Brand Reprsentative",
+      "position": "Brand Representative",
       "startDate": "February 2021",
       "endDate": "November 2022",
       "summary": "Provided customer service",
@@ -72,7 +72,8 @@
       "highlights": [
         "Collected and properly disposed of trash from various locations around the island"
       ]
-    },
+    }
+  ],
   "awards": [
     {
       "title": "B+ Scholarship",
