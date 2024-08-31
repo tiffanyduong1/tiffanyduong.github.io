@@ -4,10 +4,9 @@
     "label": "Student",
     "picture": "https://github.com/tiffanyduong1.png",
     "email": "duongtif@hawaii.edu",
-    "phone": "808-772-8221",
     "website": "https://tiffanyduong1.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Sciences in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.A. in Information and Computer Sciences in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2026.",
+    "location": { "city": "Honolulu", "region": "Hawaii", "countryCode": "USA" },
     "profiles": [
       { "network": "github", "username": "tiffanyduong1", "url": "http://github.com/tiffanyduong1" },
       { "network": "linkedin", "username": "tiffanyduonggg", "url": "http://linkedin.com/in/tiffanyduonggg" }
@@ -21,20 +20,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "CSS" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "CSS", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Google Suite", "Microsoft Office Suite", "Git/GitHub", "Visual Studio Code" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Sciences (expected Spring, 2026)",
+      "area": "Information and Computer Sciences",
       "studyType": "B.A.",
-      "startDate": "August 2022",
-      "endDate": "Present",
+      "date": " August 2022 - Present",
       "courses": [
       ]
     }
@@ -43,10 +41,11 @@
     {
       "company": "UH Manoa Molecular Biosciences and Engineering",
       "position": "Clerical Assistant",
-      "startDate": "June 2023",
+      "startDate": "2023",
       "endDate": "Present",
-      "summary": "Provided administrative support and technical tasks assigned by supervisor",
+      "summary": "",
       "highlights": [
+        "Provided administrative support and technical tasks assigned by supervisor",
         "Performed general office work, including filing, data entry, and managing correspondence"
       ]
     },
@@ -77,7 +76,7 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2022-Present",
+      "date": "2022 - Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
