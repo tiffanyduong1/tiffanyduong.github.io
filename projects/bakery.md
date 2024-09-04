@@ -3,13 +3,13 @@ layout: project
 type: project
 image: img/bakery.jpg
 title: "Vacay"
-date: 2015
+date: 2021
 published: true
 labels:
-  - Javascript
+  - JavaScript
   - HTML
   - CSS
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A bakery website designed to store user information across webpages using JavaScript."
 ---
 
 <img class="img-fluid" src="../img/bread.png">
