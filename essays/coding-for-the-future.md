@@ -11,8 +11,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/coding.png">
 
-*Coding for the Future*
-
 ## Personal Interest: The Joy of Front-End Development
 
 Software engineering encompasses a variety of roles, including development, testing, and maintenance of software. Within this broad field, I have a strong interest in the design and development of website applications. The aspect of front-end development brings me great enjoyment, as it allows me to create interfaces that users interact with directly. There is immense satisfaction in knowing that the work I put into a project is not only functional but also visually appealing and easy for users to navigate.
