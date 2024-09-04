@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kiralogo.png
+image: img/kiralogo.jpg
 title: "Kira Kira Supplies"
 date: 2019
 published: true
