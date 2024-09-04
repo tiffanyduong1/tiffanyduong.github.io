@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/bakery.jpg
-title: "Vacay"
+title: "Bakery Shop"
 date: 2021
 published: true
 labels:
