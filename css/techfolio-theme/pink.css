@@ -6,9 +6,9 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-pink1: #b13e53;
-  --tf-pink2: ##F2A0AD;
-  --tf-pink3: ##FCBDC7;
-  --tf-pink4: ##FFDBE1;
+  --tf-pink2: #F2A0AD;
+  --tf-pink3: #FCBDC7;
+  --tf-pink4: #FFDBE1;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-pink1);
   --tf-pill-bg: var(--tf-pink3);
