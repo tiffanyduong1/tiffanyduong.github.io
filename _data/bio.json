@@ -39,10 +39,10 @@
     },
     {
       "institution": "President Theodore Roosevelt High School, Honolulu, HI",
-      "area": "Information and Computer Sciences",
+      "area": [ "High School Diploma", "Academic Honors", "STEM Honors" ],
       "startDate": "2018",
       "endDate": "2022",
-      "courses": [ "High School Diploma", "Academic Honors", "STEM Honors"
+      "courses": [
       ]
     }
   ],
