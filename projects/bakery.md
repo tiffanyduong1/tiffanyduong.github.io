@@ -20,4 +20,6 @@ I was responsible for the entire project, handling both the coding and design. H
 
 This project focused on storing the costs of items users added to their orders and displaying them correctly. One of the key lessons I learned was the importance of understanding data types. Early on, my website displayed "NaN" (Not a Number) errors because I did not handle certain values properly. This project taught me the importance of how data is processed and displayed.
 
+<a href="https://github.com/tiffanyduong1/bakeryshop"> To see my project, click here. </a>
+
 <img class="img-fluid" src="../img/bread2.png">
