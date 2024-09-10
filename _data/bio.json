@@ -36,6 +36,15 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Theodore Roosevelt High School, Honolulu, HI",
+      "area": "High School Diploma",
+      "studyType": "Summa Cum Laude",
+      "startDate": "2018",
+      "endDate": "2022",
+      "courses": [ 
+      ]
     }
   ],
   "work": [
