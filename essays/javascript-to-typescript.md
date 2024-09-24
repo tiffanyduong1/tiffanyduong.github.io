@@ -7,7 +7,8 @@ date: 2024-09-03
 published: true
 labels:
   - Software Engineering
-  - Learning
+  - JavaScript
+  - TypeScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/TS.png">
