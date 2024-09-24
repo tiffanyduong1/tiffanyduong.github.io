@@ -2,15 +2,14 @@
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
-@import url("https://fonts.google.com/share?selection.family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900")
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-pink1: ##F2A0AD;
-  --tf-pink2: #F2A0AD;
-  --tf-pink3: #FCBDC7;
-  --tf-pink4: #FFFFFF;
-  --bs-font-sans-serif: "Roboto Serif", serif;
+  --tf-pink1: #F2A0AD;
+  --tf-pink2: ##F9B0BC;
+  --tf-pink3: ##FFC0CB;
+  --tf-pink4: ##FBC9CB;
+  --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-pink1);
   --tf-pill-bg: var(--tf-pink3);
   --tf-icon-fill: var(--tf-pink1);
