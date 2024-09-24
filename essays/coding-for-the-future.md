@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/coding.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/coding.png">
 
 ## Personal Interest: The Joy of Front-End Development
 
