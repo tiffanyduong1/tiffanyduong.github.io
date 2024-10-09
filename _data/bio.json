@@ -39,8 +39,8 @@
     },
     {
       "institution": "Theodore Roosevelt High School, Honolulu, HI",
-      "area": "High School Diploma",
-      "studyType": "Summa Cum Laude",
+      "area": "Summa Cum Laude",
+      "studyType": "High School Diploma",
       "startDate": "2018",
       "endDate": "2022",
       "courses": [ 
@@ -55,8 +55,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Provided administrative support and carried out technical tasks assigned by supervisor",
-        "Performed general office work, including filing, data entry, and managing correspondence"
+        "Provide administrative support and perform technical tasks as assigned by supervisor",
+        "Handle general office duties, including filing, data entry, and managing correspondence"
       ]
     },
     {
@@ -66,21 +66,60 @@
       "endDate": "2022",
       "summary": "",
       "highlights": [
-        "Ensured a positive shopping experience by actively interacting with customers to understand and meet their needs",
-        "Maintained a welcoming and organized store environment"
+        "Assisted customers with inquiries, provided personalized styling recommendations, and resolved issues to ensure a positive shopping experience",
+        "Processed transactions accurately and maintained an organized, welcoming store environment"
       ]
     }
   ],
   "volunteer": [
     {
+      "organization": "Key Club",
+      "position": "Member",
+      "startDate": "Aug 2018",
+      "endDate": "May 2022",
+      "summary": "Volunteered at various events, contributing donations to schools and hospitals, and earned over 200 hours of community service",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "organization": "Achery Club",
+      "position": "Member",
+      "startDate": "Jan 2019",
+      "endDate": "May 2022",
+      "summary": "",
+      "highlights": [
+        "Attended weekly practices and participated in the 2019 Hawaii State National Archery in the Schools Program Tournament"
+      ]
+    },
+    {
+      "organization": "Leo Club",
+      "position": "Member",
+      "startDate": "Aug 2019",
+      "endDate": "May 2022",
+      "summary": "Assisted in fundraising efforts and participated in community beautification projects",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "organization": "Red Cross Club",
+      "position": "Member",
+      "startDate": "Nov 2020",
+      "endDate": "May 2021",
+      "summary": "Contributed to community donations and learned disaster preparedness skills to support myself and others",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "organization": "808 Cleanups",
       "position": "Member",
-      "startDate": "2020",
-      "endDate": "2021",
-      "summary": "Beautified Oahu by removing litter",
+      "startDate": "Jan 2020",
+      "endDate": "May 2021",
+      "summary": "",
       "highlights": [
-        "Attended cleanups to collect and properly dispose of trash from various locations around the island",
-        "Learned about and spread awareness of current environmental issues"
+        "Participated in cleanup events to beautify Oahu by collecting and properly disposing of litter, while raising awareness of environmental issues"
       ]
     }
   ],
