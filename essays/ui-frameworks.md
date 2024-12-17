@@ -4,7 +4,7 @@ type: essay
 title: "The Efficiencies of UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
-published: true
+published: false
 labels:
   - UI Frameworks
   - Bootstrap 5
