@@ -9,6 +9,7 @@ labels:
   - HTML
   - CSS
   - Bootstrap 5
+  - Software Engineering
 summary: "A replica of the official Smiskis website developed with Bootstrap."
 ---
 
