@@ -6,7 +6,6 @@ title: "From JavaScript to TypeScript"
 date: 2024-09-03
 published: false
 labels:
-  - Software Engineering
   - JavaScript
   - TypeScript
 ---

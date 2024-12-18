@@ -6,7 +6,6 @@ title: Lessons Beyond Software Engineering
 date: 2024-12-17
 published: true
 labels:
-  - Software Engineering
   - Coding Standards
   - Agile Project Management
 ---
@@ -26,3 +25,6 @@ When working on large projects, it can be overwhelming to prioritize what needs 
 
 ## Conclusion
 Reflecting on the use of AI in this software engineering course, I realize that it significantly shaped my learning experience. It provided me with opportunities to effectively grasp the material my instructor aimed to teach and even enabled me to implement features in my final project that were not explicitly covered in the course. However, both myself and other students need to be mindful of how heavily we rely on these AI tools. Finding a balance between using AI to enhance learning and maintaining independent problem-solving skills is essential. For future courses, I would recommend that instructors actively remind students of their capabilities and encourage them to attempt solutions independently before turning to AI tools.
+
+## Use of AI
+Throughout this essay, AI tools such as Grammarly and ChatGPT were used to enhance the grammar, punctuation, and clarity of the writing. While the ideas presented are my own, AI helped to refine the overall flow and tone.
