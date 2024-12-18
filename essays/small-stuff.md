@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="250px" style="float: right; margin-left: 1rem;" class="rounded" src="../img/standards.jpg">
+<img width="275px" style="float: right; margin-left: 1rem;" class="rounded" src="../img/standards.jpg">
 
 ## Introduction
 Coding standards are guidelines that ensure code is readable, maintainable, efficient, reliable, and reusable. While some of these standards may feel tedious, such as needing to add a space after commas in function arguments, they are not essential for a program to run. However, they play a key role in producing high-quality code, which makes it easier for collaborators to understand and contribute. For example, naming conventions improve clarity, reducing confusion for anyone working on the program. When all developers follow the same structural guidelines, collaboration becomes smoother, and sharing code is more straightforward. A shared understanding of these standards helps teams work together more effectively and allows developers to focus on building functional, reliable programs without without being hindered by inconsistencies or confusion.
