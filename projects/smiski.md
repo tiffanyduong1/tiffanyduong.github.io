@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/smiski.jpg
-title: "Smiski"
+title: "SMISKI"
 date: 2024
 published: true
 labels:
