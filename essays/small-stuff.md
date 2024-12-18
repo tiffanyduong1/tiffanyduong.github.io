@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="250px" class="rounded float-start" src="../img/standards.jpg">
+<img width="250px" style="float: right; margin-left: 1rem;" class="rounded" src="../img/standards.jpg">
 
 ## Introduction
 Coding standards are guidelines that ensure code is readable, maintainable, efficient, reliable, and reusable. While some of these standards may feel tedious, such as needing to add a space after commas in function arguments, they are not essential for a program to run. However, they play a key role in producing high-quality code, which makes it easier for collaborators to understand and contribute. For example, naming conventions improve clarity, reducing confusion for anyone working on the program. When all developers follow the same structural guidelines, collaboration becomes smoother, and sharing code is more straightforward. A shared understanding of these standards helps teams work together more effectively and allows developers to focus on building functional, reliable programs without without being hindered by inconsistencies or confusion.
@@ -21,5 +21,5 @@ The ESLint extension for Visual Studio Code helps enforce coding standards. Duri
 ## Conclusion
 In conclusion, coding standards may seem frustrating, especially for those just starting to learn how to code. However, it’s crucial to understand their value early on, as they help maintain consistent coding practices. In the long run, programming is a collaborative task where code needs to be shared and worked on together. Tools that enforce these standards make it easier to fix code, ensuring it is functional, reliable, and maintainable. Embracing coding standards will lead to more efficient development and smoother collaboration.
 
-# Note: Use of AI
+## Use of AI
 Throughout this essay, AI tools such as Grammarly and ChatGPT were used to enhance the grammar, punctuation, and clarity of the writing. While the ideas presented are my own, AI helped to refine the overall flow and tone.

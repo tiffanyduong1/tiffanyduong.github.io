@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="225px" class="rounded float-start" src="../img/ui.png">
+<img width="250px" style="float: right; margin-left: 1rem;" class="rounded" src="../img/ui.png">
 
 ## Introduction
 UI frameworks simplify the web development process by providing pre-built components, elements, and libraries. In the ICS 314: Software Engineering course at UHM, Bootstrap 5 was frequently used to improve efficiency. By offering ready-made tools, it reduces the time spent coding from scratch and facilitates the creation of responsive websites that perform well on both desktop and mobile devices.
@@ -24,5 +24,5 @@ Despite the occasionally of Bootstrap, limitations became apparent when relying 
 ## Conclusion
 In conclusion, UI frameworks significantly reduce development time, allowing developers to focus on creating more complex and polished websites instead of spending excessive time on basic visual elements. These frameworks also alleviate the frustration often associated with working with raw HTML and CSS alone. By utilizing pre-built components and responsive features, websites become both efficient and visually appealing across various devices. Ultimately, UI frameworks empower developers to produce high-quality, user-friendly websites while maintaining consistency and adaptability.
 
-# Note: Use of AI
+# Use of AI
 Throughout this essay, AI tools such as Grammarly and ChatGPT were used to enhance the grammar, punctuation, and clarity of the writing. While the ideas presented are my own, AI helped to refine the overall flow and tone.
