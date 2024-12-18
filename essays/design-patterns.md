@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/design-pattern.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/design-pattern.jpg">
 
 ## The Secret Recipes Behind Efficient Code
 
